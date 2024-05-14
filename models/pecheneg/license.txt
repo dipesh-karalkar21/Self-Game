@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-Poly PKP Pecheneg
+* source:	https://sketchfab.com/3d-models/low-poly-pkp-pecheneg-6152125f01b9454aaf9976b12d95df00
+* author:	Wolfosito (https://sketchfab.com/wtksmb)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-Poly PKP Pecheneg" (https://sketchfab.com/3d-models/low-poly-pkp-pecheneg-6152125f01b9454aaf9976b12d95df00) by Wolfosito (https://sketchfab.com/wtksmb) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

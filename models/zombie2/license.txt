@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zombie: The Burnt
+* source:	https://sketchfab.com/3d-models/zombie-the-burnt-263514e15f3c4ef792796399876ca8a8
+* author:	CatBYTE Studio (https://sketchfab.com/K3NMA)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zombie: The Burnt" (https://sketchfab.com/3d-models/zombie-the-burnt-263514e15f3c4ef792796399876ca8a8) by CatBYTE Studio (https://sketchfab.com/K3NMA) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

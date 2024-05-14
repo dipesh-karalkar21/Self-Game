@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chamelion
+* source:	https://sketchfab.com/3d-models/chamelion-1f08582485114b23973debe964c60c12
+* author:	rubiez (https://sketchfab.com/rubiez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chamelion" (https://sketchfab.com/3d-models/chamelion-1f08582485114b23973debe964c60c12) by rubiez (https://sketchfab.com/rubiez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
