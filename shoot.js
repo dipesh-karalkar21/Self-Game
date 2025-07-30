@@ -10,13 +10,7 @@ AFRAME.registerComponent("shoot",{
 
                 console.log("bullet created")
 
-                bullet.setAttribute("geometry",{
-                    primitive : "sphere",
-                    radius : 0.05
-                })
-                bullet.setAttribute("material",{
-                    color:"black"
-                })
+                bullet.setAttribute("gltf-model",`#bullet`)
                 bullet.setAttribute("dynamic-body",{
                     mass:"0"
                 })
