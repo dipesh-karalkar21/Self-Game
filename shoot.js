@@ -11,6 +11,17 @@ AFRAME.registerComponent("shoot",{
                 console.log("bullet created")
 
                 bullet.setAttribute("gltf-model",`#bullet`)
+                bullet.setAttribute("rotation",{
+                    x:0,
+                    y:90,
+                    z:0
+                })
+
+                bullet.setAttribute("scale",{
+                    x:0.05,
+                    y:0.05,
+                    z:0.05,
+                })
                 bullet.setAttribute("dynamic-body",{
                     mass:"0"
                 })
